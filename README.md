@@ -1,2 +1,19 @@
-# YouTube-Clon
-A YouTube Clone built with HTML and CSS as a practice project. It replicates the core layout of YouTube, including navigation, sidebar, video grid, and thumbnails, using sample data. The project focuses on front-end development, responsive design, and clean UI structure.
+# YouTube Clone
+
+# About
+
+This is a practice project where I recreated the basic layout of YouTube using HTML and CSS. It includes navigation, sidebar, video grid, and thumbnails filled with sample data to resemble the YouTube interface.
+
+# Purpose
+The main goal of this project was to:
+
+Practice front-end development with HTML and CSS
+
+Get familiar with responsive design and clean UI structure
+
+Learn how to use online resources for images and icons, and practice working with online picture libraries
+
+
+# Note
+
+This project is only for learning purposes. All images, icons, and other resources were taken from online sources for practice.
